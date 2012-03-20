@@ -1,0 +1,10 @@
+{
+  "name": "less-compiler",
+  "version": "0.0.1",
+  "dependencies": {
+    "less": ">= 1.2.x",
+    "watch": ">= 0.0.x"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.4.12" }
+}
